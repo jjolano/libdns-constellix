@@ -1,4 +1,4 @@
-module github.com/libdns/template
+module github.com/jjolano/libdns-constellix
 
 go 1.18
 
